@@ -1,9 +1,13 @@
 body {
-    background-color: #1310ce;
+    background-color: #f8f8ff;
     font-family: Arial, sans-serif;
     text-align: center;
 }
 
 h1 {
-    color: rgb(0, 158, 206);
+    color: rgb(0, 31, 206);
+}
+p{
+    color: #1900ff;
+    font-size: 1.2em
 }
